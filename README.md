@@ -52,4 +52,4 @@ The easy way to host this bot, deploy to Heroku
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/DARKAMAN5/KennedyXMusic), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
-[![kennedy+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/DARKAMAN5/KennedyXMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ALIVE_NAME,ALIVE_EMOJI,BG_IMAGE,BOT_IMG,ASSISTANT_NAME,BOT_OWNER,THUMB_IMG,U_BRANCH,UPSTREAM_REPO,BROADCAST_AS_COPY,DATABASE_URL,LOG_CHANNEL,GROUP_SUPPORT,OWNER_ID,OWNER_NAME,PMPERMIT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![kennedy+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/DARKAMAN5/KennedyXMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ALIVE_NAME,ALIVE_EMOJI,BG_IMAGE,BOT_IMG,ASSISTANT_NAME,THUMB_IMG,U_BRANCH,UPSTREAM_REPO,BROADCAST_AS_COPY,DATABASE_URL,LOG_CHANNEL,GROUP_SUPPORT,OWNER_ID,OWNER_NAME,PMPERMIT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
