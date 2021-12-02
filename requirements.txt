@@ -1,6 +1,5 @@
 tgcrypto
 git+https://github.com/pyrogram/pyrogram@master
-youtube_dl
 youtube-search-python
 py-tgcalls
 python-dotenv
