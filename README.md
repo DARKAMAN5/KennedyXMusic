@@ -48,3 +48,8 @@ The easy way to host this bot, deploy to Heroku
 
 ### Support & Updates 🛵
 <a href="https://t.me/emikosupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/KennedyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+
+## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
+ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/KennedyProject/KennedyXMusic), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
+
+[![kennedy+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/KennedyProject/KennedyXMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ALIVE_NAME,ALIVE_EMOJI,BG_IMAGE ,BOT_IMG,ASSISTANT_NAME,BOT_OWNER,THUMB_IMG,U_BRANCH,UPSTREAM_REPO,BROADCAST_AS_COPY,DATABASE_URL,LOG_CHANNEL,GROUP_SUPPORT,OWNER_ID,OWNER_NAME,PMPERMIT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
